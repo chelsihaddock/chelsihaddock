@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chelsihaddock
 - 👀 I’m interested in uncovering insights through data analysis
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python libraries to be more efficient
 - 📫 How to reach me: chelsihaddock@gmail.com
 
 <!---
